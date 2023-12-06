@@ -1,0 +1,24 @@
+# Configure main menu and social menu
+# [[main]]
+# identifier = "home"
+# name = "Home"
+# url = "/"
+# [main.params]
+# icon = "home"
+# newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/Mx64"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "X"
+name = "X (Formerly known as Twitter)"
+url = "https://x.com/0xW4DDLE"
+
+[social.params]
+icon = "brand-twitter"
